@@ -1,0 +1,10 @@
+
+
+npm install typescript -g
+tsc -v
+tsc --all
+tsc --init
+ tsc --target es6 squares.ts
+
+E.g:
+tsc add.ts  -- Will generate add.js files.
