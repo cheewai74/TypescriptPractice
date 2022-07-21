@@ -6,5 +6,7 @@ tsc --all
 tsc --init
  tsc --target es6 squares.ts
 
+npx tsc hello_world.ts
+
 E.g:
 tsc add.ts  -- Will generate add.js files.
